@@ -1,0 +1,1 @@
+This page is meant to be a brief introduction to who I am, what I have done, and what differentiates me  from others. I'm curious about how this will look when the lines get longer and longer.  I finally have the website built.  Now I need content for the site. 

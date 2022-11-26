@@ -1,0 +1,7 @@
+{{ define "postsList" }}
+<ul>
+  {{ range $index, $item := .PostTitles }}
+  <li>{{ $item }}</li>
+  {{ end }}
+</ul>
+{{ end }}
