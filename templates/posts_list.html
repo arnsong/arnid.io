@@ -1,7 +1,7 @@
 {{ define "postsList" }}
 <ul>
   {{ range $index, $item := .PostTitles }}
-  <li>{{ $item }}</li>
+  <li><a href="#" class="link-primary">{{ $item }}</a></li>
   {{ end }}
 </ul>
 {{ end }}

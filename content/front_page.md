@@ -1,14 +1,3 @@
 # :wave: Hello world!!!
 
-`var arnold := Person{name: "Arnold"}`
-
-Here's some code:
-```python
-def do_something(name: str):
-  print(f"{name}")
-```
-~~Curious to see how this gets rendered.~~
-
-* [ ] This is a checkbox
-
-[google.com](http://google.com)
+![blah blah blah](https://products.softsolutionslimited.com/wp-content/uploads/images/blog/image_files/sample.tif.jpg)

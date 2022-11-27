@@ -2,9 +2,7 @@
 {{ if .PostTitles }}
   {{ range $item := .PostTitles }}
 <div class="row pb-4">
-  <h3>{{ $item -}}</h3>
-  <p>Some content</p>
-  <i class="bi-alarm"></i><a class="nav-link">Read more...</a>
+  <a href="#" class="display-7 link-secondary"><p>{{ $item -}}</p></a>
 </div>
   {{ end -}}
 {{ else }}
